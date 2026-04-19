@@ -1,15 +1,13 @@
-**# english-premier-league-analysis-powerbi
-Power BI dashboard analyzing English Premier League 2023-24 season with team performance, player stats, and match insights.
-**# ⚽ English Premier League 2023-24 Analysis (Power BI)
+##  English Premier League 2023-24 Analysis (Power BI)
 
-## 📌 Overview
+##  Overview
 This project presents an interactive Power BI dashboard analyzing the English Premier League 2023-24 season. It provides insights into team performance, player statistics, and match outcomes.
 
 The dashboard enables users to explore data dynamically using filters and slicers.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Season: 2023-24 English Premier League
 - Data includes:
   - Points table
@@ -19,7 +17,7 @@ The dashboard enables users to explore data dynamically using filters and slicer
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze team performance across the season
 - Identify top-performing players
 - Evaluate match outcomes and trends
@@ -27,7 +25,7 @@ The dashboard enables users to explore data dynamically using filters and slicer
 
 ---
 
-## 📈 Key Features
+##  Key Features
 - Dynamic filtering using slicers
 - Team-wise and player-wise analysis
 - KPI calculations (wins, goals, rankings)
@@ -35,9 +33,9 @@ The dashboard enables users to explore data dynamically using filters and slicer
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
-### 🏆 Dashboard Overview
+###  Dashboard Overview
 ![Dashboard](images/dashboard_overview.png)
 
 ### 📋 Points Table
@@ -51,7 +49,7 @@ The dashboard enables users to explore data dynamically using filters and slicer
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Modeling
@@ -59,12 +57,12 @@ The dashboard enables users to explore data dynamically using filters and slicer
 ---
 
 
-## 🚀 Insights
+##  Insights
 - Top teams dominate based on consistent wins and goal difference
 - Key players contribute significantly to team success
 - Match outcomes vary based on home vs away performance
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **M S Aravind**
