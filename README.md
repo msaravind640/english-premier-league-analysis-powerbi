@@ -35,17 +35,11 @@ The dashboard enables users to explore data dynamically using filters and slicer
 
 ##  Dashboard Preview
 
-###  Dashboard Overview
-![Dashboard](images/dashboard_overview.png)
+![League Analysis](images/League_Analysis.png)
 
-### 📋 Points Table
-![Points Table](images/points_table.png)
+![Match Analysis](images/Match_Analysis.png)
 
-### ⚽ Player Statistics
-![Player Stats](images/player_stats.png)
-
-### 📊 Team Performance
-![Team Analysis](images/team_analysis.png)
+![Squad Analysis](images/Squad_Analysis.png)
 
 ---
 
